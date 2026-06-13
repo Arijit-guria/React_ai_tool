@@ -189,7 +189,7 @@ function App() {
                   ) : (
                     <div className="flex gap-3 max-w-xl w-full">
                       <div className="mt-1 w-8 h-8 rounded-full bg-gradient-to-br from-pink-500 to-violet-600 shrink-0 flex items-center justify-center text-white text-xs font-bold">
-                        AI
+                        Arijit
                       </div>
                       {/* Render lines directly — no Answers.jsx needed */}
                       <div className="flex flex-col gap-1 text-sm dark:text-zinc-200 text-zinc-800 leading-relaxed">
